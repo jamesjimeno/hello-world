@@ -1,0 +1,8 @@
+docker exec -it container_name bash
+
+
+Kubernetes
+
+deployments - high level construct that define an application
+pods - instances of a container in deployment
+services - are endoints that exports ports to the outside world
